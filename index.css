@@ -103,7 +103,7 @@ body {
   
   .pages {
     height: 100vw;
-    width: auto;
+    width: 100vh;
   }
   
   .pages h3 {
