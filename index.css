@@ -102,7 +102,7 @@ body {
   }  
   
   .pages {
-    height: 100vh;
+    height: 100vw;
   }
   
   .pages h3 {
