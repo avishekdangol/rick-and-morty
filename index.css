@@ -100,5 +100,9 @@ body {
   .owl-carousel {
     transform: rotate(90deg);
   }  
-
+  
+  .pages {
+    width: 100vh;
+    height: 100vw;
+  }
 }
