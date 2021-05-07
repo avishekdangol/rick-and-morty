@@ -102,8 +102,7 @@ body {
   }  
   
   .pages {
-    height: 1920px;
-    width: 920px;
+    height: 100vh;
   }
   
   .pages h3 {
